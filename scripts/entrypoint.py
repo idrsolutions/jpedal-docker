@@ -37,7 +37,7 @@ if war_exists():
 else:
     print('Error: JPedal WAR file is missing.')
     print('Please mount your JPedal Microservice, details can be found at the following link.')
-    print('https://docs.idrsolutions.com/jpedal/docker-deployment/')
+    print('https://support.idrsolutions.com/jpedal/tutorials/cloud/docker/')
     exit(1)
 
 
