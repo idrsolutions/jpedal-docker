@@ -4,9 +4,9 @@ JPedal is a Java PDF library for converting, extraction, viewing and printing PD
 
 ## Getting Started ##
 
-In order to use the JPedal Docker image you will need a license to access the JPedal war file. If you have not got a license yet, you can find our [free trial or contact us here](https://www.idrsolutions.com/jpedal/pricing).
+In order to use the JPedal Docker image you will need a license to access the JPedal war file. If you have not got a license yet, you can [sign up for a free trial](https://www.idrsolutions.com/jpedal/trial-download).
 
-Once you have access, you can get and run the docker image with the following commands.
+Once you have the JPedal war file, you can pull and run the docker image with the following commands:
 ```bash
 docker pull idrsolutions/jpedal:latest
 docker run -p 80:80 --mount "source=/path/to/war/jpedal-microservice.war,target=/usr/local/tomcat/webapps/ROOT.war,type=bind" idrsolutions/jpedal
@@ -24,5 +24,6 @@ To build the image from the source use the following steps.
 
 ## Documentation ## 
 
-[IDRSolutions JPedal Cloud Support Page](https://support.idrsolutions.com/jpedal/tutorials/cloud/).  
-[IDRSolutions JPedal Docker Support Page](https://support.idrsolutions.com/jpedal/tutorials/cloud/docker).
+[JPedal Cloud Documentation](https://support.idrsolutions.com/jpedal/tutorials/cloud/)
+[JPedal Docker Documentation](https://support.idrsolutions.com/jpedal/tutorials/cloud/docker)
+[Contact IDRsolutions](https://www.idrsolutions.com/contact-us)
