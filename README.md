@@ -24,6 +24,6 @@ To build the image from the source use the following steps.
 
 ## Documentation ## 
 
-[JPedal Cloud Documentation](https://support.idrsolutions.com/jpedal/tutorials/cloud/)
-[JPedal Docker Documentation](https://support.idrsolutions.com/jpedal/tutorials/cloud/docker)
+[JPedal Cloud Documentation](https://support.idrsolutions.com/jpedal/tutorials/cloud/)  
+[JPedal Docker Documentation](https://support.idrsolutions.com/jpedal/tutorials/cloud/docker)  
 [Contact IDRsolutions](https://www.idrsolutions.com/contact-us)
