@@ -1,0 +1,7 @@
+                        JPedal Docker Microservice
+                        ==========================
+
+Please visit the IDRSolutions JPedal microservice for the war file to use with this docker image:
+  * https://github.com/idrsolutions/jpedal-microservice-example
+
+Copyright 2020 - 2023 IDRsolutions
