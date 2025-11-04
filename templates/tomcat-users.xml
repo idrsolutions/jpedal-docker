@@ -19,6 +19,7 @@
               xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
               xsi:schemaLocation="http://tomcat.apache.org/xml tomcat-users.xsd"
               version="1.0">
+    <role rolename="jpedal-user"/>
     <user username="${jpedal_user}" password="${jpedal_password}" roles="jpedal-user"/>
 <!--
   NOTE:  By default, no user is included in the "manager-gui" role required
