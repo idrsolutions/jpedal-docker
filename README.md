@@ -1,6 +1,6 @@
 # JPedal Docker Image #
 
-JPedal is a Java PDF library for converting, extraction, viewing and printing PDF documents. This docker image can be used to containerise JPedal making its image/text extraction and PDF to image conversion functionality accessible via a REST API which is perfect for cloud deployments.
+[JPedal](https://www.idrsolutions.com/jpedal/) is a Java PDF library for converting, extraction, viewing and printing PDF documents. This docker image can be used to containerise JPedal making its image/text extraction and PDF to image conversion functionality accessible via a REST API which is perfect for cloud deployments.
 
 ## Getting Started ##
 
