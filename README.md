@@ -22,7 +22,7 @@ To build the image from the source use the following steps.
 - Run the following command  
   ```docker build -t idrsolutions/jpedal .```
 
-## Documentation ## [JDeli](https://www.idrsolutions.com/jdeli/)
+## Documentation ## 
 
 [JPedal Cloud Documentation](https://www.idrsolutions.com/docs/jpedal/host-a-web-service/)  
 [JPedal Docker Documentation](https://www.idrsolutions.com/docs/jpedal/host-docker-web-service/)  
